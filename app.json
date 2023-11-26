@@ -28,6 +28,10 @@
     "LISTMONK_APP__ADMIN_PASSWORD": {
       "description": "Admin password",
       "required": true
+    },
+    "DATABASE_URL": {
+      "description": "Postgres database URL",
+      "required": true
     }
   },
 
